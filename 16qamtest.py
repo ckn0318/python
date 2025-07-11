@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+#git测试
 bitsToAmp = {'11': 3, '10': 1, '01': -1, '00': -3}  # 设置数字和幅度的对应关系
 spots = {}  # 放置点
 
